@@ -201,7 +201,7 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 */
 .studio-footer {
     background-color: #ffffff;
-    padding: 60px;
+    padding: 20px 60px 60px 60px;
     color: #000000; }
 
 .studio-footer-content {
@@ -213,7 +213,7 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 
 /*Social LINKS*/
 .social-links {
-    margin-bottom: 15px; }
+    margin-bottom: 25px; }
 
 .social-links li {
     padding: 0 8px 0 8px; }
@@ -238,7 +238,7 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 
 /*Contact BTN*/
 .studio-contact {
-    margin-bottom: 60px; }
+    margin-bottom: 30px; }
 
 .contact-btn {
     border: 1px solid #000000;
