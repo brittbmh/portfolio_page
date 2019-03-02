@@ -166,7 +166,7 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 */
 .studio-work { margin-bottom: 100px; }
 
-.studio-work-text { margin-top: 35px; }
+/* .studio-work-text { margin-top: 5px; } */
 
 .studio-work-text.right { text-align: right; }
 
@@ -180,10 +180,10 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 
 .studio-work h2 {
     font-family: Proxima_Regular;
-    font-size: 16px;
+    font-size: 14px;
     color: #7F7A79;
     line-height: 30px;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-right: 30px; }
 
 .studio-work h3{
