@@ -170,13 +170,18 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 
 .studio-work-text.right { text-align: right; }
 
-.studio-work img { width: 520px; }
+.studio-work img { 
+    width: 520px; 
+    margin-top: 20px;
+}
 
 
 .studio-work h1 {
     font-family: Proxima_Bold;
     font-size: 30px;
-    text-transform: none; }
+    text-transform: none; 
+    margin-top: 15px;   
+}
 
 .studio-work h2 {
     font-family: Proxima_Regular;
@@ -201,7 +206,7 @@ body { background-color: #FFF; color: #000000; overflow-x: hidden }
 */
 .studio-footer {
     background-color: #ffffff;
-    padding: 20px 60px 60px 60px;
+    padding: 40px 60px 60px 60px;
     color: #000000; }
 
 .studio-footer-content {
